@@ -1,0 +1,19 @@
+{
+    "metadata": [
+        {
+            "label": "タイトル",
+            "term": "dcterms:title",
+            "value": "るいせう道しるべ 上"
+        },
+        {
+            "label": "ID",
+            "term": "dcterms:identifier",
+            "value": "ba4f01c3-d9ae-4588-a461-59a5062d919b"
+        },
+        {
+            "label": "内部ID",
+            "term": "bibo:identifier",
+            "value": "O-COL-Ｋ-001"
+        }
+    ]
+}

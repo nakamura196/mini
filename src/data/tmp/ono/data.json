@@ -1,0 +1,1266 @@
+{
+    "item_sets": [
+        {
+            "ID": "O-COL-N",
+            "タイトル": "小野秀雄コレクション錦絵"
+        }
+    ],
+    "items": [
+        {
+            "ID": "ba4f01c3-d9ae-4588-a461-59a5062d919b",
+            "タイトル": "るいせう道しるべ 上",
+            "マイクロ番号": 351001,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-001"
+        },
+        {
+            "ID": "eef22bdf-92c8-4026-ad4b-2274d235ff2a",
+            "タイトル": "やけあと道しるべ ",
+            "マイクロ番号": 351002,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-002"
+        },
+        {
+            "ID": "0aa5d214-3395-4932-aef6-ab7a23f36b02",
+            "タイトル": "御江戸方角分量大略之図",
+            "マイクロ番号": 351112,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-003"
+        },
+        {
+            "ID": "250f8f1c-dffc-432c-8b18-9c62f715e4d3",
+            "タイトル": "江戸大火(仮)",
+            "マイクロ番号": 351003,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-004"
+        },
+        {
+            "ID": "af998fcd-6cc8-4a9a-b811-783b75a2cd65",
+            "タイトル": "江戸神田佐久間町の大火(仮)",
+            "マイクロ番号": 351004,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-005"
+        },
+        {
+            "ID": "6fa7058f-feae-4f7a-b2d4-4cb7d6afee33",
+            "タイトル": "江戸神田佐久間町の大火(仮)",
+            "マイクロ番号": 351005,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-006"
+        },
+        {
+            "ID": "c8a97de1-34d2-4f5a-befa-7be20f99b1ca",
+            "タイトル": "江戸神田辺大火(仮) ",
+            "マイクロ番号": 351006,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-007"
+        },
+        {
+            "ID": "185ab49b-a164-41cd-b4a0-33842eb2a282",
+            "タイトル": "江戸神田辺大火(仮)",
+            "マイクロ番号": 351007,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-008"
+        },
+        {
+            "ID": "d468afe9-a59a-4f6c-8d64-4d366a8a769a",
+            "タイトル": "出火場所方角付",
+            "マイクロ番号": 351008,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-009"
+        },
+        {
+            "ID": "cef05ebb-d857-47d5-ac9d-1a8edaa87f46",
+            "タイトル": "方角絵図面",
+            "マイクロ番号": 351009,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-010"
+        },
+        {
+            "ID": "66b60518-412f-46c4-97d7-d606a348f436",
+            "タイトル": "出火場所方角付",
+            "マイクロ番号": 351010,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-011"
+        },
+        {
+            "ID": "589b8f2a-f7b2-4444-b2e2-2ea70941f6a6",
+            "タイトル": "方角場所付",
+            "マイクロ番号": 351012,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-013"
+        },
+        {
+            "ID": "1653dc4b-94a7-4a5f-af46-c43d4d5a16a7",
+            "タイトル": "方角絵図面 ",
+            "マイクロ番号": 351013,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-014"
+        },
+        {
+            "ID": "e50da599-d4e1-4745-82fa-c2f458bcd70f",
+            "タイトル": "大坂大火",
+            "マイクロ番号": 351014,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-015"
+        },
+        {
+            "ID": "54447215-7654-4733-a548-f2d972c323ca",
+            "タイトル": "大坂大火 ",
+            "マイクロ番号": 351015,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-016"
+        },
+        {
+            "ID": "0904d9d6-bcd6-47d7-af7e-a21335b57df6",
+            "タイトル": "日本橋本舟町火事(仮)",
+            "マイクロ番号": 351016,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-017"
+        },
+        {
+            "ID": "ee884277-6cf1-48e5-b060-53ffe881ffd6",
+            "タイトル": "大坂大火(仮)",
+            "マイクロ番号": 351017,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-018"
+        },
+        {
+            "ID": "a8080fc5-982a-4a62-b081-bbee28856c91",
+            "タイトル": "青山権田原辺火事(仮) ",
+            "マイクロ番号": 351018,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-019"
+        },
+        {
+            "ID": "daa80949-a47d-4255-923d-bb0a4e1640ae",
+            "タイトル": "青山権田原辺火事(仮)",
+            "マイクロ番号": 351019,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-020"
+        },
+        {
+            "ID": "5fbf58e0-c220-4c3e-9e5a-e3fae33dcb7d",
+            "タイトル": "焼原方角付あらましの分 ",
+            "マイクロ番号": 351020,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-021"
+        },
+        {
+            "ID": "a202ac1a-fd1f-452e-b264-33fc90987a8f",
+            "タイトル": "江戸本郷辺大火(仮)",
+            "マイクロ番号": 351023,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-023"
+        },
+        {
+            "ID": "99e91eb2-3d9c-4fb2-aef9-cb0828f5cb9a",
+            "タイトル": "江戸本郷辺大火(仮)",
+            "マイクロ番号": 351024,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-024"
+        },
+        {
+            "ID": "9cc4709a-6219-425e-92ef-53040bae220c",
+            "タイトル": "江戸本郷辺大火(仮)",
+            "マイクロ番号": 351025,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-025"
+        },
+        {
+            "ID": "1e85e8f8-4408-446d-a613-d4cdf2704ff6",
+            "タイトル": "江戸本郷辺大火(仮)",
+            "マイクロ番号": 351026,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-026"
+        },
+        {
+            "ID": "723b8306-8d9e-45de-8a89-3105e4579174",
+            "タイトル": "江戸本郷辺大火(仮) ",
+            "マイクロ番号": 351027,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-027"
+        },
+        {
+            "ID": "95f370ee-3c2a-414d-b46c-8c17536b9f3a",
+            "タイトル": "江戸大火(仮)",
+            "マイクロ番号": 351028,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-028"
+        },
+        {
+            "ID": "28a007a6-569d-4d80-a084-6f1c00d63c5b",
+            "タイトル": "焼場独案内",
+            "マイクロ番号": 351029,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-029"
+        },
+        {
+            "ID": "9c667b44-381f-44a7-adfa-df1f19d8ea8e",
+            "タイトル": "江戸出火場所細見",
+            "マイクロ番号": 351030,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-030"
+        },
+        {
+            "ID": "0815e909-1174-4a70-8310-0557b9cd00b7",
+            "タイトル": "焼場方角付 ",
+            "マイクロ番号": 351031,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-031"
+        },
+        {
+            "ID": "0b10130b-db47-4074-afeb-127207acfe77",
+            "タイトル": "焼場方角付",
+            "マイクロ番号": 351032,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-032"
+        },
+        {
+            "ID": "4a6626b1-6543-48fb-8a93-b21bce257ec8",
+            "タイトル": "江戸麹町辺大火(仮) ",
+            "マイクロ番号": 351033,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-033"
+        },
+        {
+            "ID": "17ac2134-f797-49fa-9033-f9a3f416c477",
+            "タイトル": "江戸大火(仮)",
+            "マイクロ番号": 351035,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-035"
+        },
+        {
+            "ID": "afe2d01d-b4df-49ad-9724-fde19e86f6e1",
+            "タイトル": "方角の図",
+            "マイクロ番号": 351036,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-036"
+        },
+        {
+            "ID": "96e154ef-c492-4413-827d-7de6ad2979d4",
+            "タイトル": "江戸麹町辺大火(仮) ",
+            "マイクロ番号": 351037,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-037"
+        },
+        {
+            "ID": "774c648d-59c7-4f29-b46a-da3dcdef5f7d",
+            "タイトル": "江戸麹町辺大火(仮)",
+            "マイクロ番号": 351038,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-038"
+        },
+        {
+            "ID": "c50745ae-387b-4e1e-bbc4-f77638df6d66",
+            "タイトル": "京都焼場方角付",
+            "マイクロ番号": 351039,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-039"
+        },
+        {
+            "ID": "e428108b-0185-44de-94de-26a307ec0f67",
+            "タイトル": "江戸通一丁目辺大火(仮)",
+            "マイクロ番号": 351040,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-040"
+        },
+        {
+            "ID": "5b941661-a740-4c85-9b58-b69058b52e65",
+            "タイトル": "江戸四谷辺大火(仮)",
+            "マイクロ番号": 351041,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-041"
+        },
+        {
+            "ID": "5e5e8880-d39a-4670-b1d8-d156edbb4f3c",
+            "タイトル": "江戸神田辺大火(仮) ",
+            "マイクロ番号": 351042,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-042"
+        },
+        {
+            "ID": "07e92645-4d5b-417a-a669-c58d63e776cd",
+            "タイトル": "江戸日本橋辺大火(仮) ",
+            "マイクロ番号": 351043,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-043"
+        },
+        {
+            "ID": "12b62ab4-7153-4aec-bace-00275551267c",
+            "タイトル": "江戸小網町辺大火(仮)",
+            "マイクロ番号": 351044,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-044"
+        },
+        {
+            "ID": "9f607aab-3a3f-43f6-bda7-e2055cac27b6",
+            "タイトル": "江戸浅草辺大火(仮)",
+            "マイクロ番号": 351072,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-045"
+        },
+        {
+            "ID": "a3499669-d052-4d19-a8e4-2548cd0fc966",
+            "タイトル": "吉原類焼の記(仮)",
+            "マイクロ番号": 351091,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-046"
+        },
+        {
+            "ID": "913ddcff-b30d-4db9-bf50-5addb53d8f69",
+            "タイトル": "江戸下谷辺大火(仮)",
+            "マイクロ番号": 351045,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-047"
+        },
+        {
+            "ID": "823ba793-b496-4a8e-9233-10b0f9fc350b",
+            "タイトル": "焼場方角付 ",
+            "マイクロ番号": 351046,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-048"
+        },
+        {
+            "ID": "be4ee94d-6061-48eb-81b0-3c79bafb86e1",
+            "タイトル": "江戸日本橋大火(仮)",
+            "マイクロ番号": 351047,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-049"
+        },
+        {
+            "ID": "0d101338-746e-4ea5-ad75-48d83a8fa442",
+            "タイトル": "出火",
+            "マイクロ番号": 351048,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-050"
+        },
+        {
+            "ID": "c653e4f2-67c4-45f6-89c6-fbaeb533d945",
+            "タイトル": "大阪大火 ",
+            "マイクロ番号": 351049,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-051"
+        },
+        {
+            "ID": "3efd0f80-2f95-4bd2-933e-279c5bee08a3",
+            "タイトル": "京都大火",
+            "マイクロ番号": 351050,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-052"
+        },
+        {
+            "ID": "5f344363-f513-48cb-8fb5-4bb78c409e3a",
+            "タイトル": "京都大火図 ",
+            "マイクロ番号": 351051,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-053"
+        },
+        {
+            "ID": "eefbe23e-f6f1-46ee-aa7e-4a78be3d09d6",
+            "タイトル": "京都大火極本しらべ",
+            "マイクロ番号": 351052,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-054"
+        },
+        {
+            "ID": "1e0ada59-eb11-4147-93a9-3b055df5f1c2",
+            "タイトル": "京都大火",
+            "マイクロ番号": 351053,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-055"
+        },
+        {
+            "ID": "c1d5f968-91ef-4790-b5a5-695330d25e37",
+            "タイトル": "焼場方角一覧 ",
+            "マイクロ番号": 351054,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-056"
+        },
+        {
+            "ID": "eaea7199-18a0-4830-80cb-dd2dfebb0e7f",
+            "タイトル": "焼場方角一覧",
+            "マイクロ番号": 351056,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-057"
+        },
+        {
+            "ID": "a522465f-f114-4977-a091-ccf6456f31ca",
+            "タイトル": "焼場方角付",
+            "マイクロ番号": 351055,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-058"
+        },
+        {
+            "ID": "8d6d9d4c-6015-400a-a376-6155bdb4ff46",
+            "タイトル": "江戸焼場方角付 ",
+            "マイクロ番号": 351057,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-059"
+        },
+        {
+            "ID": "18c42b96-3dba-4264-9173-6bc7c59988c3",
+            "タイトル": "大江戸焼場方角付",
+            "マイクロ番号": 351058,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-060"
+        },
+        {
+            "ID": "cb6b8c22-de37-47ae-826e-598680d00af3",
+            "タイトル": "江戸神田辺火事(仮)",
+            "マイクロ番号": 351059,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-061"
+        },
+        {
+            "ID": "b9027362-d8cd-4e74-a647-110b99c3b4d8",
+            "タイトル": "江戸神田辺火事(仮) ",
+            "マイクロ番号": 351060,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-062"
+        },
+        {
+            "ID": "bae83495-8df7-4f9b-aa5f-43caa29b3ad2",
+            "タイトル": "やけば方角十八手 ",
+            "マイクロ番号": 351061,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-063"
+        },
+        {
+            "ID": "310215e1-400f-4d76-b4bb-1659e14ce8ff",
+            "タイトル": "青山大火場所付",
+            "マイクロ番号": 351062,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-064"
+        },
+        {
+            "ID": "39643674-aacd-4b19-91af-5ba7c3e28dac",
+            "タイトル": "青山大火場所付",
+            "マイクロ番号": 351063,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-065"
+        },
+        {
+            "ID": "7638333f-f336-4856-b7ba-938515bfb5cb",
+            "タイトル": "江戸浅草辺大火(仮)",
+            "マイクロ番号": 351064,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-066"
+        },
+        {
+            "ID": "b714629a-1210-4f34-85f3-9498bb506d43",
+            "タイトル": "江戸日本橋辺大火(仮)",
+            "マイクロ番号": 351065,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-067"
+        },
+        {
+            "ID": "0a7022f2-a335-4def-a47c-12fc1cabc20c",
+            "タイトル": "大坂大火場所付 ",
+            "マイクロ番号": 351066,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-068"
+        },
+        {
+            "ID": "5be0a960-02c3-4f9d-a0b5-132bbe8e473e",
+            "タイトル": "江戸飯倉辺大火(仮)",
+            "マイクロ番号": 351067,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-069"
+        },
+        {
+            "ID": "ae61b35b-66d5-4b3c-b144-e56409faf49a",
+            "タイトル": "江戸馬喰町大火(仮)",
+            "マイクロ番号": 351068,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-070"
+        },
+        {
+            "ID": "364e897d-3ef5-4a56-93dd-c2cf07e6a548",
+            "タイトル": "大坂大火",
+            "マイクロ番号": 351070,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-072"
+        },
+        {
+            "ID": "9b243ea5-4acb-4697-aa35-95bffda59d6e",
+            "タイトル": "火之用心・大阪今昔三度の大火 ",
+            "マイクロ番号": 351071,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-073"
+        },
+        {
+            "ID": "a6a87bab-cbbd-4c77-a901-420d102f9af1",
+            "タイトル": "武州加奈川横浜出火略図 ",
+            "マイクロ番号": 351073,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-074"
+        },
+        {
+            "ID": "794048c6-3f8a-41e1-afba-c31d443a32a8",
+            "タイトル": "焼場方角細見記",
+            "マイクロ番号": 351075,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-076"
+        },
+        {
+            "ID": "77a09d12-ee47-4508-b350-00b427db7a8a",
+            "タイトル": "江戸神田大火(仮)",
+            "マイクロ番号": 351076,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-077"
+        },
+        {
+            "ID": "efb14051-31e3-42b3-89ab-4fb4c3c915d6",
+            "タイトル": "江戸神田大火(仮)",
+            "マイクロ番号": 351077,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-078"
+        },
+        {
+            "ID": "35b6a2fa-cdae-483c-80d6-6c23f4d70a34",
+            "タイトル": "大坂大火之図(仮)",
+            "マイクロ番号": 351078,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-079"
+        },
+        {
+            "ID": "5b017da7-a63c-4ec0-bf36-025d1b72701c",
+            "タイトル": "明治二年東京大火(仮)",
+            "マイクロ番号": 351079,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-080"
+        },
+        {
+            "ID": "43a5cd6d-8ca2-4520-bb78-3d00324aef2f",
+            "タイトル": "明治五年東京大火(仮)",
+            "マイクロ番号": 351080,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-081"
+        },
+        {
+            "ID": "bab9f60b-e39f-4c5c-85da-c31fbc2a9527",
+            "タイトル": "諸人安堵乃為火事場急報",
+            "マイクロ番号": 351081,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-082"
+        },
+        {
+            "ID": "59520d34-5cfe-41d7-9e11-adbc43de7b21",
+            "タイトル": "大垣町火災地略図 ",
+            "マイクロ番号": 351082,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-083"
+        },
+        {
+            "ID": "294404b6-d7f8-4085-b7de-c0fc5ccdba42",
+            "タイトル": "江戸出火 ",
+            "マイクロ番号": 351083,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-084"
+        },
+        {
+            "ID": "fe92e221-03a6-47dd-b4f6-c11859075304",
+            "タイトル": "江戸出火",
+            "マイクロ番号": 351085,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-086"
+        },
+        {
+            "ID": "3b06c283-a37e-4e9e-a9be-c70253530646",
+            "タイトル": "江戸出火",
+            "マイクロ番号": 351086,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-087"
+        },
+        {
+            "ID": "e5b80924-249d-4633-a8f7-230c6b8c0e0f",
+            "タイトル": "江戸出火",
+            "マイクロ番号": 351087,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-088"
+        },
+        {
+            "ID": "6a78425d-f6bd-44fe-a37b-e26cc6e97ac2",
+            "タイトル": "江戸出火",
+            "マイクロ番号": 351089,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-092"
+        },
+        {
+            "ID": "d1834bf2-1bfa-4924-a6b0-e68670f8d721",
+            "タイトル": "江戸出火",
+            "マイクロ番号": 351090,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-093"
+        },
+        {
+            "ID": "0d6c45af-9d1e-44ef-9c8e-10133b98c2ff",
+            "タイトル": "江戸大火(仮)",
+            "マイクロ番号": 351092,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-094"
+        },
+        {
+            "ID": "0772d315-ccc0-4500-a8ca-71f8cb1a664e",
+            "タイトル": "大坂大火(仮)",
+            "マイクロ番号": 351093,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-095"
+        },
+        {
+            "ID": "77710fb2-75a9-4cb6-9bcb-657a2f37e94d",
+            "タイトル": "江戸新橋辺大火(仮)",
+            "マイクロ番号": 351094,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-096"
+        },
+        {
+            "ID": "549a177d-c8ef-443f-8926-c1ae174a377d",
+            "タイトル": "三田・田町辺大火(仮) ",
+            "マイクロ番号": 351095,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-097"
+        },
+        {
+            "ID": "c669723e-809f-4086-963e-b51ea1ae208e",
+            "タイトル": "江戸図(仮)",
+            "マイクロ番号": 351096,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-098"
+        },
+        {
+            "ID": "e9c68148-643c-4c5a-9a2d-7417dc57a7ab",
+            "タイトル": "せんハ上丁 大火ノ図 ",
+            "マイクロ番号": 351097,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-099"
+        },
+        {
+            "ID": "bf955789-1219-4957-9bca-28d1cd59fb18",
+            "タイトル": "三田・田町辺大火(仮)",
+            "マイクロ番号": 351098,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-100"
+        },
+        {
+            "ID": "2096bb06-6908-4bf2-b281-65d76d32ce62",
+            "タイトル": "江戸大火(仮)",
+            "マイクロ番号": 351099,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-101"
+        },
+        {
+            "ID": "03bd4f2c-bbf3-4f14-af5c-adcb442dec16",
+            "タイトル": "江戸大火(仮)",
+            "マイクロ番号": 351100,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-102"
+        },
+        {
+            "ID": "0ce820b2-8df7-4d6e-a88a-fdb7fc685282",
+            "タイトル": "江戸大火(仮)",
+            "マイクロ番号": 351101,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-103"
+        },
+        {
+            "ID": "2b7a3178-382f-41f4-a4e1-08606cf6964c",
+            "タイトル": "江戸大火(仮) ",
+            "マイクロ番号": 351102,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-104"
+        },
+        {
+            "ID": "ec81097f-c7e4-4679-9b9f-730437ce164b",
+            "タイトル": "東京の火事(仮)",
+            "マイクロ番号": 351103,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-105"
+        },
+        {
+            "ID": "b253230f-b1a1-459d-b7ad-018bcbcd804f",
+            "タイトル": "江戸大火(仮)",
+            "マイクロ番号": 351104,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-106"
+        },
+        {
+            "ID": "0ec7e44f-3c99-4382-a06e-70c55f8b3381",
+            "タイトル": "京都大火大功記十段目秡文句",
+            "マイクロ番号": 351105,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-107"
+        },
+        {
+            "ID": "a9372532-0908-4119-8d81-a76569adc38a",
+            "タイトル": "防火戯詞(仮)",
+            "マイクロ番号": 351107,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-109"
+        },
+        {
+            "ID": "16f61829-9f38-4935-a745-fa738146317f",
+            "タイトル": "火用道具",
+            "マイクロ番号": 351108,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-110"
+        },
+        {
+            "ID": "fffa6ec9-e0e9-4006-ac2f-0caa79dacca4",
+            "タイトル": "火事道化(仮)",
+            "マイクロ番号": 351109,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-111"
+        },
+        {
+            "ID": "d64935b9-8b41-42d5-9f31-5ca0a2b18c24",
+            "タイトル": "ふれ出し風の薬",
+            "マイクロ番号": 351110,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-112"
+        },
+        {
+            "ID": "510b34d4-3164-4fc8-8358-c81b656bbc0e",
+            "タイトル": "地震之用心火乃用心",
+            "マイクロ番号": 351111,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-113"
+        },
+        {
+            "ID": "6f30af2c-3dbf-4344-91ec-5bbfafa46bfc",
+            "タイトル": "地震出火の図(仮)",
+            "マイクロ番号": 352112,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-226"
+        },
+        {
+            "ID": "0a4537b6-fd1a-44e7-ba7b-dfea37d69fb4",
+            "タイトル": "ゆらゆら豊問答",
+            "マイクロ番号": 352113,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-227"
+        },
+        {
+            "ID": "eccf717b-5947-40c9-b99d-f73ed07e9a99",
+            "タイトル": "安政三年関東の地震(仮)",
+            "マイクロ番号": 352108,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-228"
+        },
+        {
+            "ID": "bc630a2f-50b8-4f9d-acfb-ca649a2e9ad3",
+            "タイトル": "岐阜罹災之統計略表 ",
+            "マイクロ番号": 352109,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-229"
+        },
+        {
+            "ID": "4b7a49c6-99fc-40a9-80b9-241412cf9b2d",
+            "タイトル": "万歳楽鯰大奇 ",
+            "マイクロ番号": 360063,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-231"
+        },
+        {
+            "ID": "9dcabc67-b90d-4fab-9d34-fb65b3c5129d",
+            "タイトル": "新板改正大平武鑑 ",
+            "マイクロ番号": 360068,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-232"
+        },
+        {
+            "ID": "126170cd-3c25-4af4-b5a3-5b08344b1ca2",
+            "タイトル": "新板改正大平武鑑 ",
+            "マイクロ番号": 360069,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-233"
+        },
+        {
+            "ID": "6d4ca719-4495-4ee9-9a2b-d2f701f71355",
+            "タイトル": "歌舞伎引札見立の地震戯詞(仮)",
+            "マイクロ番号": 359034,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-234"
+        },
+        {
+            "ID": "787bceee-b736-4acb-9d84-73a8a8bffd09",
+            "タイトル": "見立町鑑大地しん(仮) ",
+            "マイクロ番号": 352115,
+            "公開非公開": 1,
+            "内部ID": "O-COL-Ｋ-235"
+        }
+    ],
+    "mapping": [
+        {
+            "term": "dcterms:title",
+            "ラベル": "タイトル"
+        },
+        {
+            "term": "dcterms:identifier",
+            "ラベル": "ID"
+        },
+        {
+            "term": "bibo:identifier",
+            "ラベル": "内部ID"
+        },
+        {
+            "term": "is_public",
+            "ラベル": "公開非公開"
+        },
+        {
+            "term": "iiif",
+            "ラベル": "画像のURL"
+        }
+    ],
+    "media": [
+        {
+            "ID": "ba4f01c3-d9ae-4588-a461-59a5062d919b",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351001.tif/info.json"
+        },
+        {
+            "ID": "eef22bdf-92c8-4026-ad4b-2274d235ff2a",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351002.tif/info.json"
+        },
+        {
+            "ID": "0aa5d214-3395-4932-aef6-ab7a23f36b02",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351112.tif/info.json"
+        },
+        {
+            "ID": "250f8f1c-dffc-432c-8b18-9c62f715e4d3",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351003.tif/info.json"
+        },
+        {
+            "ID": "af998fcd-6cc8-4a9a-b811-783b75a2cd65",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351004.tif/info.json"
+        },
+        {
+            "ID": "6fa7058f-feae-4f7a-b2d4-4cb7d6afee33",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351005.tif/info.json"
+        },
+        {
+            "ID": "c8a97de1-34d2-4f5a-befa-7be20f99b1ca",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351006.tif/info.json"
+        },
+        {
+            "ID": "185ab49b-a164-41cd-b4a0-33842eb2a282",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351007.tif/info.json"
+        },
+        {
+            "ID": "d468afe9-a59a-4f6c-8d64-4d366a8a769a",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351008.tif/info.json"
+        },
+        {
+            "ID": "cef05ebb-d857-47d5-ac9d-1a8edaa87f46",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351009.tif/info.json"
+        },
+        {
+            "ID": "66b60518-412f-46c4-97d7-d606a348f436",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351010.tif/info.json"
+        },
+        {
+            "ID": "589b8f2a-f7b2-4444-b2e2-2ea70941f6a6",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351012.tif/info.json"
+        },
+        {
+            "ID": "1653dc4b-94a7-4a5f-af46-c43d4d5a16a7",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351013.tif/info.json"
+        },
+        {
+            "ID": "e50da599-d4e1-4745-82fa-c2f458bcd70f",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351014.tif/info.json"
+        },
+        {
+            "ID": "54447215-7654-4733-a548-f2d972c323ca",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351015.tif/info.json"
+        },
+        {
+            "ID": "0904d9d6-bcd6-47d7-af7e-a21335b57df6",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351016.tif/info.json"
+        },
+        {
+            "ID": "ee884277-6cf1-48e5-b060-53ffe881ffd6",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351017.tif/info.json"
+        },
+        {
+            "ID": "a8080fc5-982a-4a62-b081-bbee28856c91",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351018.tif/info.json"
+        },
+        {
+            "ID": "daa80949-a47d-4255-923d-bb0a4e1640ae",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351019.tif/info.json"
+        },
+        {
+            "ID": "5fbf58e0-c220-4c3e-9e5a-e3fae33dcb7d",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351020.tif/info.json"
+        },
+        {
+            "ID": "a202ac1a-fd1f-452e-b264-33fc90987a8f",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351023.tif/info.json"
+        },
+        {
+            "ID": "99e91eb2-3d9c-4fb2-aef9-cb0828f5cb9a",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351024.tif/info.json"
+        },
+        {
+            "ID": "9cc4709a-6219-425e-92ef-53040bae220c",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351025.tif/info.json"
+        },
+        {
+            "ID": "1e85e8f8-4408-446d-a613-d4cdf2704ff6",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351026.tif/info.json"
+        },
+        {
+            "ID": "723b8306-8d9e-45de-8a89-3105e4579174",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351027.tif/info.json"
+        },
+        {
+            "ID": "95f370ee-3c2a-414d-b46c-8c17536b9f3a",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351028.tif/info.json"
+        },
+        {
+            "ID": "28a007a6-569d-4d80-a084-6f1c00d63c5b",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351029.tif/info.json"
+        },
+        {
+            "ID": "9c667b44-381f-44a7-adfa-df1f19d8ea8e",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351030.tif/info.json"
+        },
+        {
+            "ID": "0815e909-1174-4a70-8310-0557b9cd00b7",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351031.tif/info.json"
+        },
+        {
+            "ID": "0b10130b-db47-4074-afeb-127207acfe77",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351032.tif/info.json"
+        },
+        {
+            "ID": "4a6626b1-6543-48fb-8a93-b21bce257ec8",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351033.tif/info.json"
+        },
+        {
+            "ID": "17ac2134-f797-49fa-9033-f9a3f416c477",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351035.tif/info.json"
+        },
+        {
+            "ID": "afe2d01d-b4df-49ad-9724-fde19e86f6e1",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351036.tif/info.json"
+        },
+        {
+            "ID": "96e154ef-c492-4413-827d-7de6ad2979d4",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351037.tif/info.json"
+        },
+        {
+            "ID": "774c648d-59c7-4f29-b46a-da3dcdef5f7d",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351038.tif/info.json"
+        },
+        {
+            "ID": "c50745ae-387b-4e1e-bbc4-f77638df6d66",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351039.tif/info.json"
+        },
+        {
+            "ID": "e428108b-0185-44de-94de-26a307ec0f67",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351040.tif/info.json"
+        },
+        {
+            "ID": "5b941661-a740-4c85-9b58-b69058b52e65",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351041.tif/info.json"
+        },
+        {
+            "ID": "5e5e8880-d39a-4670-b1d8-d156edbb4f3c",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351042.tif/info.json"
+        },
+        {
+            "ID": "07e92645-4d5b-417a-a669-c58d63e776cd",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351043.tif/info.json"
+        },
+        {
+            "ID": "12b62ab4-7153-4aec-bace-00275551267c",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351044.tif/info.json"
+        },
+        {
+            "ID": "9f607aab-3a3f-43f6-bda7-e2055cac27b6",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351072.tif/info.json"
+        },
+        {
+            "ID": "a3499669-d052-4d19-a8e4-2548cd0fc966",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351091.tif/info.json"
+        },
+        {
+            "ID": "913ddcff-b30d-4db9-bf50-5addb53d8f69",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351045.tif/info.json"
+        },
+        {
+            "ID": "823ba793-b496-4a8e-9233-10b0f9fc350b",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351046.tif/info.json"
+        },
+        {
+            "ID": "be4ee94d-6061-48eb-81b0-3c79bafb86e1",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351047.tif/info.json"
+        },
+        {
+            "ID": "0d101338-746e-4ea5-ad75-48d83a8fa442",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351048.tif/info.json"
+        },
+        {
+            "ID": "c653e4f2-67c4-45f6-89c6-fbaeb533d945",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351049.tif/info.json"
+        },
+        {
+            "ID": "3efd0f80-2f95-4bd2-933e-279c5bee08a3",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351050.tif/info.json"
+        },
+        {
+            "ID": "5f344363-f513-48cb-8fb5-4bb78c409e3a",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351051.tif/info.json"
+        },
+        {
+            "ID": "eefbe23e-f6f1-46ee-aa7e-4a78be3d09d6",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351052.tif/info.json"
+        },
+        {
+            "ID": "1e0ada59-eb11-4147-93a9-3b055df5f1c2",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351053.tif/info.json"
+        },
+        {
+            "ID": "c1d5f968-91ef-4790-b5a5-695330d25e37",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351054.tif/info.json"
+        },
+        {
+            "ID": "eaea7199-18a0-4830-80cb-dd2dfebb0e7f",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351056.tif/info.json"
+        },
+        {
+            "ID": "a522465f-f114-4977-a091-ccf6456f31ca",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351055.tif/info.json"
+        },
+        {
+            "ID": "8d6d9d4c-6015-400a-a376-6155bdb4ff46",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351057.tif/info.json"
+        },
+        {
+            "ID": "18c42b96-3dba-4264-9173-6bc7c59988c3",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351058.tif/info.json"
+        },
+        {
+            "ID": "cb6b8c22-de37-47ae-826e-598680d00af3",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351059.tif/info.json"
+        },
+        {
+            "ID": "b9027362-d8cd-4e74-a647-110b99c3b4d8",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351060.tif/info.json"
+        },
+        {
+            "ID": "bae83495-8df7-4f9b-aa5f-43caa29b3ad2",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351061.tif/info.json"
+        },
+        {
+            "ID": "310215e1-400f-4d76-b4bb-1659e14ce8ff",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351062.tif/info.json"
+        },
+        {
+            "ID": "39643674-aacd-4b19-91af-5ba7c3e28dac",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351063.tif/info.json"
+        },
+        {
+            "ID": "7638333f-f336-4856-b7ba-938515bfb5cb",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351064.tif/info.json"
+        },
+        {
+            "ID": "b714629a-1210-4f34-85f3-9498bb506d43",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351065.tif/info.json"
+        },
+        {
+            "ID": "0a7022f2-a335-4def-a47c-12fc1cabc20c",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351066.tif/info.json"
+        },
+        {
+            "ID": "5be0a960-02c3-4f9d-a0b5-132bbe8e473e",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351067.tif/info.json"
+        },
+        {
+            "ID": "ae61b35b-66d5-4b3c-b144-e56409faf49a",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351068.tif/info.json"
+        },
+        {
+            "ID": "364e897d-3ef5-4a56-93dd-c2cf07e6a548",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351070.tif/info.json"
+        },
+        {
+            "ID": "9b243ea5-4acb-4697-aa35-95bffda59d6e",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351071.tif/info.json"
+        },
+        {
+            "ID": "a6a87bab-cbbd-4c77-a901-420d102f9af1",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351073.tif/info.json"
+        },
+        {
+            "ID": "794048c6-3f8a-41e1-afba-c31d443a32a8",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351075.tif/info.json"
+        },
+        {
+            "ID": "77a09d12-ee47-4508-b350-00b427db7a8a",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351076.tif/info.json"
+        },
+        {
+            "ID": "efb14051-31e3-42b3-89ab-4fb4c3c915d6",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351077.tif/info.json"
+        },
+        {
+            "ID": "35b6a2fa-cdae-483c-80d6-6c23f4d70a34",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351078.tif/info.json"
+        },
+        {
+            "ID": "5b017da7-a63c-4ec0-bf36-025d1b72701c",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351079.tif/info.json"
+        },
+        {
+            "ID": "43a5cd6d-8ca2-4520-bb78-3d00324aef2f",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351080.tif/info.json"
+        },
+        {
+            "ID": "bab9f60b-e39f-4c5c-85da-c31fbc2a9527",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351081.tif/info.json"
+        },
+        {
+            "ID": "59520d34-5cfe-41d7-9e11-adbc43de7b21",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351082.tif/info.json"
+        },
+        {
+            "ID": "294404b6-d7f8-4085-b7de-c0fc5ccdba42",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351083.tif/info.json"
+        },
+        {
+            "ID": "fe92e221-03a6-47dd-b4f6-c11859075304",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351085.tif/info.json"
+        },
+        {
+            "ID": "3b06c283-a37e-4e9e-a9be-c70253530646",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351086.tif/info.json"
+        },
+        {
+            "ID": "e5b80924-249d-4633-a8f7-230c6b8c0e0f",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351087.tif/info.json"
+        },
+        {
+            "ID": "6a78425d-f6bd-44fe-a37b-e26cc6e97ac2",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351089.tif/info.json"
+        },
+        {
+            "ID": "d1834bf2-1bfa-4924-a6b0-e68670f8d721",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351090.tif/info.json"
+        },
+        {
+            "ID": "0d6c45af-9d1e-44ef-9c8e-10133b98c2ff",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351092.tif/info.json"
+        },
+        {
+            "ID": "0772d315-ccc0-4500-a8ca-71f8cb1a664e",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351093.tif/info.json"
+        },
+        {
+            "ID": "77710fb2-75a9-4cb6-9bcb-657a2f37e94d",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351094.tif/info.json"
+        },
+        {
+            "ID": "549a177d-c8ef-443f-8926-c1ae174a377d",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351095.tif/info.json"
+        },
+        {
+            "ID": "c669723e-809f-4086-963e-b51ea1ae208e",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351096.tif/info.json"
+        },
+        {
+            "ID": "e9c68148-643c-4c5a-9a2d-7417dc57a7ab",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351097.tif/info.json"
+        },
+        {
+            "ID": "bf955789-1219-4957-9bca-28d1cd59fb18",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351098.tif/info.json"
+        },
+        {
+            "ID": "2096bb06-6908-4bf2-b281-65d76d32ce62",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351099.tif/info.json"
+        },
+        {
+            "ID": "03bd4f2c-bbf3-4f14-af5c-adcb442dec16",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351100.tif/info.json"
+        },
+        {
+            "ID": "0ce820b2-8df7-4d6e-a88a-fdb7fc685282",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351101.tif/info.json"
+        },
+        {
+            "ID": "2b7a3178-382f-41f4-a4e1-08606cf6964c",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351102.tif/info.json"
+        },
+        {
+            "ID": "ec81097f-c7e4-4679-9b9f-730437ce164b",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351103.tif/info.json"
+        },
+        {
+            "ID": "b253230f-b1a1-459d-b7ad-018bcbcd804f",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351104.tif/info.json"
+        },
+        {
+            "ID": "0ec7e44f-3c99-4382-a06e-70c55f8b3381",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351105.tif/info.json"
+        },
+        {
+            "ID": "a9372532-0908-4119-8d81-a76569adc38a",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351107.tif/info.json"
+        },
+        {
+            "ID": "16f61829-9f38-4935-a745-fa738146317f",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351108.tif/info.json"
+        },
+        {
+            "ID": "fffa6ec9-e0e9-4006-ac2f-0caa79dacca4",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351109.tif/info.json"
+        },
+        {
+            "ID": "d64935b9-8b41-42d5-9f31-5ca0a2b18c24",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351110.tif/info.json"
+        },
+        {
+            "ID": "510b34d4-3164-4fc8-8358-c81b656bbc0e",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0351111.tif/info.json"
+        },
+        {
+            "ID": "6f30af2c-3dbf-4344-91ec-5bbfafa46bfc",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0352112.tif/info.json"
+        },
+        {
+            "ID": "0a4537b6-fd1a-44e7-ba7b-dfea37d69fb4",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0352113.tif/info.json"
+        },
+        {
+            "ID": "eccf717b-5947-40c9-b99d-f73ed07e9a99",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0352108.tif/info.json"
+        },
+        {
+            "ID": "bc630a2f-50b8-4f9d-acfb-ca649a2e9ad3",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0352109.tif/info.json"
+        },
+        {
+            "ID": "4b7a49c6-99fc-40a9-80b9-241412cf9b2d",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0360063.tif/info.json"
+        },
+        {
+            "ID": "9dcabc67-b90d-4fab-9d34-fb65b3c5129d",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0360068.tif/info.json"
+        },
+        {
+            "ID": "126170cd-3c25-4af4-b5a3-5b08344b1ca2",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0360069.tif/info.json"
+        },
+        {
+            "ID": "6d4ca719-4495-4ee9-9a2b-d2f701f71355",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0359034.tif/info.json"
+        },
+        {
+            "ID": "787bceee-b736-4acb-9d84-73a8a8bffd09",
+            "画像のURL": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/dch/O-COL-K/0352115.tif/info.json"
+        }
+    ]
+}
